@@ -10,9 +10,7 @@
   transition: background-color var(--time) var(--cubic);
 }
 
-.nav-item:first-child {
-  background-color: var(--primary-green);
-}
+
 
 .nav-item:focus,
 .nav-item:active,
