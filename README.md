@@ -74,4 +74,4 @@ http://localhost:5173
 
 > 💡 _Note: This is a fork of the
 > [original project](https://github.com/BulatovaTati/Yacht-Jet). Commits are
-> linked to my previous GitHub account._
+> linked to my [previous GitHub account](https://github.com/Kostiantyn-Spyrydonov-old-git)._
